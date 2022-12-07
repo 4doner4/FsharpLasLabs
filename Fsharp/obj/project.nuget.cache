@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGF8slOhySmlYitvqHJkGhymnUnocPXRBsxfmusers8BJzQc75JeXuEjc+P3mmERESutAy0/eduF4eCwhRXSlA==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECT\\visual studio\\Fsharp\\Fsharp\\Fsharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damir\\.nuget\\packages\\fsharp.core\\6.0.4\\fsharp.core.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
